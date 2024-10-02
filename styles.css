@@ -7,6 +7,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #f4f4f4;
+    background-image: linear-gradient(hotpink, peachpuff, dodgerblue);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +64,7 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
+    background-color: #229954; /*new green color*/
     color: white;
     text-decoration: none;
     padding: 10px 20px;
