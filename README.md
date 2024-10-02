@@ -1,3 +1,9 @@
+### Hey so I also went ahead and published this on GitHub Pages, hope that's cool 😜
+
+https://tafkae.github.io/intro_final_f24/
+
+-----
+
 # Code:You Intro Final Repo
 
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
